@@ -1,0 +1,17 @@
+.product {
+    position: abosolute;
+}
+
+.deal {
+    position: relative;
+    top: 15em;
+}
+
+.item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+}
+
+
